@@ -1,0 +1,12 @@
+.main-nav {
+  display: flex;
+  background-color: darkgrey;
+  justify-content: space-between;
+}
+.sub-nav {
+  display: flex;
+}
+.nav-list {
+  display: flex;
+  flex-direction: row;
+}

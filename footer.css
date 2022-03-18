@@ -1,0 +1,28 @@
+footer {
+  display: flex;
+  flex-direction: row;
+  background-color: #255;
+  padding: 18px;
+  font-family: Dosis;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  margin-right: 18px;
+}
+section:last-child {
+  margin-right: 0;
+}
+h2 {
+  color: white;
+  border-bottom: white;
+  padding: 1rem;
+  margin: 1rem;
+  font-size: smaller;
+  letter-spacing: 2pt;
+}
+a {
+  color: white;
+  text-decoration: none;
+  margin-bottom: 16px;
+}
